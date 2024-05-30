@@ -96,7 +96,7 @@ const CampaignInfo = () => {
           </div>
           <div className="mt-6">
             <label>
-              Campaign Name <span className="text-red-500">*</span>
+              Campaign name <span className="text-red-500">*</span>
             </label>
             <br />
             <input
